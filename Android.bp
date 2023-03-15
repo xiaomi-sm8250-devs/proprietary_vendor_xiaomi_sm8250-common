@@ -156,7 +156,7 @@ dex_import {
 dex_import {
 	name: "tcmclient",
 	owner: "xiaomi",
-	jars: ["proprietary/framework/tcmclient.jar"],
+	jars: ["proprietary/system/framework/tcmclient.jar"],
 }
 
 dex_import {
